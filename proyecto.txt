@@ -1,2 +1,3 @@
-este es el archivo master de mi repositorio Git
+este es el archivo master de mi repositortio
 
+cambio 1
