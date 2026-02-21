@@ -1,1 +1,2 @@
-Esto es un archivo incial 123
+este es el archivo master de mi repositorio Git
+
